@@ -1,0 +1,18 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  # - Katsu.re
+  # - mofurune.re
+  - shader1.re
+  - shader2.re
+  - shader3.re
+  - shader4.re
+  - shader5.re
+  - shader6.re
+  - shader7.re
+  - shader8.re
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
